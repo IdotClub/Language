@@ -1,5 +1,5 @@
 {
-    "name": "pocketmine/locale-data",
+    "name": "idotclub/locale-data",
     "description": "Language resources used by PocketMine-MP",
     "type": "library",
     "require": {}
